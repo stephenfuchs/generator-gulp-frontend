@@ -1,0 +1,18 @@
+{
+  "name": "generator-gulp-frontend",
+  "version": "0.0.0",
+  "description": "Generates scaffolding for a front-end workflow with Gulp",
+  "main": "index.js",
+  "dependencies": {
+    "yeoman-generator": "^5.4.0"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenfuchs/generator-gulp-frontend.git"
+  },
+  "author": "Stephen Fuchs",
+  "license": "ISC"
+}

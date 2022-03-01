@@ -1,0 +1,19 @@
+{
+  "name": "gulp-frontend-boilerplate",
+  "version": "1.0.0",
+  "description": "Minimal Gulp front-end workflow",
+  "keywords": [],
+  "author": "Stephen Fuchs",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.3.5",
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.8",
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.0.0",
+    "postcss": "^8.3.7",
+    "sass": "^1.42.1"
+  }
+}
