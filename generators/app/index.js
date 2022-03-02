@@ -2,7 +2,7 @@ const Generator = require("yeoman-generator");
 
 module.exports = class extends Generator {
   welcome() {
-    this.log("Welcome to the Gulp and Sass Generator!");
+    this.log("Welcome to the Gulp Front-End Generator!");
   }
 
   writing() {
@@ -34,9 +34,6 @@ module.exports = class extends Generator {
     this.log(
       "Finished generating! Before running, make sure you have the Gulp CLI installed globally, and you do NOT have Gulp itself installed globally."
     );
-    this.log(" ");
-    this.log("If you're not sure how to do this, read this for more info:");
-    this.log("https://coder-coder.com/install-gulp-globally-on-windows/");
     this.log(" ");
     this.log(
       "Once you have the Gulp CLI installed globally, you can run 'gulp' in this project directory to run Gulp!"

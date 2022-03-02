@@ -1,7 +1,7 @@
 {
   "name": "generator-gulp-frontend",
-  "version": "0.0.0",
-  "description": "Generates scaffolding for a front-end workflow with Gulp",
+  "version": "1.0.0",
+  "description": "Generates scaffolding for a front-end workflow using 7–1 Sass Architecture with Gulp",
   "main": "index.js",
   "dependencies": {
     "yeoman-generator": "^5.4.0"

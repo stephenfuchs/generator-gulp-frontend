@@ -1,6 +1,6 @@
 # Gulp Front-End Boilerplate
 
-A Yeoman generator that creates a minimal Gulp and Sass front-end workflow.
+A Yeoman generator that creates a minimal Gulp front-end workflow using the 7–1 Sass Architecture.
 
 Based off of [Coder Coder's Gulp + Sass generator](https://github.com/thecodercoder/generator-gulp-sass-boilerplate)
 
