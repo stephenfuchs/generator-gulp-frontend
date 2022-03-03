@@ -1,6 +1,6 @@
 {
   "name": "generator-gulp-frontend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates scaffolding for a front-end workflow using 7–1 Sass Architecture with Gulp",
   "main": "index.js",
   "dependencies": {
